@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">195410036_Etha Nurmalita</string>
+    <string name="estimasi_hutang">estimasi_hutang</string>
+    <string name="harian_service">harian_service</string>
+    <string name="bulanan_service">bulanan_service</string>
+    <string name="jumlah_hari_utang">jumlah_hari_utang</string>
+    <string name="ajukan_calculate">ajukan_calculate</string>
+    <string name="jumlah_utang">jumlah_utang</string>
+    <string name="todo">todo</string>
+    <string name="pinjaman">pinjaman</string>
+    <string name="harian">harian</string>
+    <string name="mingguan">mingguan</string>
+    <string name="bulanan">bulanan</string>
+    <string name="Tenor">Tenor</string>
+    <string name="ajukan">ajukan</string>
+    <string name="jumlah">jumlah</string>
+</resources>
